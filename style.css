@@ -54,6 +54,10 @@ body {
     text-align: center;
 }
 
+.carousel-indicators{
+    bottom: 10px;
+}
+
 .carousel-control-next-icon {
     border-radius: 12px;
     background-color: #b3a7a7;
