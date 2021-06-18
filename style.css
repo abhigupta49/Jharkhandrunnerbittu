@@ -37,9 +37,11 @@ body {
 }
 
 .carousel-item img {
-    height: 80vh;
+    margin-top: 65px;
+    height: 90vh;
     filter: brightness(0.5);
 }
+
 
 .carousel-caption h2 {
     color: black;
