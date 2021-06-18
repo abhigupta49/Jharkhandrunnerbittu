@@ -87,5 +87,15 @@ svg {
 }
 
 .footer-videos {
-    margin-top: 0%;
+    margin-top: 42%;
+}
+
+.view {
+    margin-top: 6%;
+}
+
+@media only screen and (max-width: 600px) {
+    .view {
+        margin-top: 24%;
+    }
 }
